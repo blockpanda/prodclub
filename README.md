@@ -24,6 +24,12 @@ ProdClub 想做的事很简单：
 
 > 优惠开通：[ProdClub / 2RPK84](https://prodclub.xyz/r/2RPK84)
 
+
+<p align="center">
+  <img src="testimonials.jpg" alt="客户真实评价：ProdClub UI 做得特别好、流程丝滑、比代充更专业" width="100%" />
+</p>
+
+
 # ProdClub · GPT 订阅开通指南
 
 **如果你需要使用 GPT，但手里没有用来支付订阅费用的信用卡**
